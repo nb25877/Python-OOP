@@ -1,0 +1,5 @@
+setup.py
+shopping.egg-info/PKG-INFO
+shopping.egg-info/SOURCES.txt
+shopping.egg-info/dependency_links.txt
+shopping.egg-info/top_level.txt
