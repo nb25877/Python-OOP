@@ -1,3 +1,7 @@
+# payment.py
+# This module defines various payment methods for an e-commerce platform.
+# Each payment method implements a common interface for processing payments.
+
 from abc import ABC, abstractmethod
 
 class PaymentMethod(ABC):

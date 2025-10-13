@@ -1,6 +1,10 @@
+# Unit2/tests/test_shopping.py
+# Test cases for shopping module
+
 import pytest
 from shopping import Product, Item, Order, CreditCardPayment, PercentageDiscount
 
+# Test cases for Product, Item, Order, and Payment classes
 def test_product_creation():
     product = Product("Test", 10.0)
     assert product.name == "Test"

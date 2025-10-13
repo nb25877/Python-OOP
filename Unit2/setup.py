@@ -1,3 +1,6 @@
+# setup.py
+# Setup script for the shopping package.
+# It uses setuptools to define package metadata and dependencies.
 from setuptools import setup, find_packages
 
 setup(

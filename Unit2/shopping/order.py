@@ -1,3 +1,8 @@
+# order.py
+# This module defines the Order class for managing shopping orders.
+# It includes methods to add items, calculate the total cost, and process payments.
+# It depends on the Item class from models.py and PaymentMethod class from payment.py.
+
 from typing import List
 from .models import Item
 from .payment import PaymentMethod

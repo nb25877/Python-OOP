@@ -1,3 +1,7 @@
+# discounts.py
+# This module defines different discount strategies for a shopping application.
+# It uses the Strategy design pattern to allow for flexible discount application.
+
 from abc import ABC, abstractmethod
 
 class DiscountStrategy(ABC):
