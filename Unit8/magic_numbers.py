@@ -1,4 +1,4 @@
-# A straightforward refactoring using named constants improves readability and maintainability.
+# Refactoring using named constants to improve readability and maintainability.
 BOOK_DISCOUNT = 0.9
 ELECTRONICS_DISCOUNT = 0.8
 

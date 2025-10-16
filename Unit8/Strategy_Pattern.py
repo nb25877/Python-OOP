@@ -1,4 +1,4 @@
-# refactored using encapsulating discount rules into separate classes which adhers to the Open/Closed Principle and improving extensibility.
+# Refactored using encapsulating discount rules into separate classes following Open/Closed Principle and improving extensibility.
 
 class DiscountStrategy:
     def apply_discount(self, price):
